@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+HR+Lijeva:wght@100..400&family=Roboto+Slab:wght@100..900&display=swap");
+.recipeCard {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2);
+}
+.recipeName {
+  font-size: 24px;
+  margin-bottom: 10px;
+  font-family: "Playwrite HR Lijeva", cursive;
+}
+.recipeImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.recipeDetails {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Playwrite HR Lijeva", cursive;
+}
+.recipeInstructions {
+  font-family: "Playwrite HR Lijeva", cursive;
+}
